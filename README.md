@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ehsan</h1>
 <h3 align="center">A passionate Frontend Developer!</h3>
 
-- 🔭 I’m currently working on **Mini Social App**
+- 🔭 I’m currently working on **Restaurant Reservation Web Application**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Testing**
 
-- 👯 I’m looking to collaborate on **React.js Projects**
+- 👯 I’m looking to collaborate on **React.js/Next.js Projects**
 
 - 📝 I regularly write articles on [https://rahkarino.com](https://rahkarino.com)
 
 - 💬 Ask me about **React.js & Next.js**
 
-- 📫 How to reach me **ehsansafari@hotmail.com**
+- 📫 Reach out to me via **ehsansafari@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
