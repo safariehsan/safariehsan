@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ehsan</h1>
 <h3 align="center">A passionate Frontend Developer!</h3>
 
-- 🔭 I’m currently working on **Restaurant Reservation Web Application**
+- 🔭 I’m currently working on **Nike Shop Landing Page**
 
 - 🌱 I’m currently learning **Testing**
 
