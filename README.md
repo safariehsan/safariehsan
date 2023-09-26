@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **React.js/Next.js Projects**
 
-- 📝 I regularly write articles on [https://rahkarino.com](https://rahkarino.com)
+- 📝 I regularly write articles on [https://ehsansafari.com](https://ehsansafari.com)
 
 - 💬 Ask me about **React.js & Next.js**
 
