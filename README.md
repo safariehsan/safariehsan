@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ehsan</h1>
 <h3 align="center">A passionate Frontend Developer!</h3>
 
-- 🔭 I’m currently working on **Nextjs Project**
+- 🔭 I’m currently working on e-commerce using **Nextjs / TypeScript**
 
-- 🌱 I’m currently learning **Testing**
+- 🌱 I’m currently learning **Testing and CI/CD**
 
 - 👯 I’m looking to collaborate on **React.js/Next.js Projects**
 
-- 📝 I regularly write articles on [https://ehsansafari.it](https://ehsansafari.it)
+- 📝 I regularly share posts on [https://www.linkedin.com/in/safariehsan](https://www.linkedin.com/in/safariehsan/)
+
+- 🌐 Check my personal website [https://ehsansafari.it](https://ehsansafari.it)
 
 - 💬 Ask me about **React.js & Next.js**
 
